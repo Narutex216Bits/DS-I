@@ -1,0 +1,6 @@
+
+#ignoring windows, mac and linux folders
+windows
+mac
+linux
+node_movdules
