@@ -1,0 +1,13 @@
+objFuncionario.IDDep = int.Parse($"{cboDepartamento.SelectedValue}");
+
+objFuncionario.Nome = txtNome.Text;
+objFuncionario.CEP = txtCEP.Text;
+objFuncionario.Endereco = txtEndereco.Text;
+objFuncionario.Complemento = txtComplemento.Text;
+objFuncionario.Numero = txtNumero.Text;
+objFuncionario.Bairro = txtBairro.Text;
+objFuncionario.Cidade = txtCidade.Text;
+objFuncionario.UF = txtUF.Text;
+objFuncionario.Salario = decimal.Parse(txtSalario.Text);
+
+objFuncionario.Incluir();

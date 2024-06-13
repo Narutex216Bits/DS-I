@@ -1,0 +1,84 @@
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ProjetoEmpresa.exe
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ProjetoEmpresa.deps.json
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ProjetoEmpresa.runtimeconfig.json
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ProjetoEmpresa.dll
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ProjetoEmpresa.pdb
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.FrmDepartamento.resources
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.FrmFuncionario.resources
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.FrmMENU.resources
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.dll
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\refint\ProjetoEmpresa.dll
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.pdb
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ref\ProjetoEmpresa.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.csproj.AssemblyReference.cache
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.FrmDepartamento.resources
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.FrmFuncionario.resources
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.FrmMENU.resources
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.csproj.GenerateResource.cache
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.AssemblyInfoInputs.cache
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.AssemblyInfo.cs
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\refint\ProjetoEmpresa.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.pdb
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ProjetoEmpresa.exe
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ProjetoEmpresa.deps.json
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ProjetoEmpresa.runtimeconfig.json
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ProjetoEmpresa.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ProjetoEmpresa.pdb
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoE.BC654157.Up2Date
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.genruntimeconfig.cache
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ref\ProjetoEmpresa.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ProjetoEmpresa.exe
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ProjetoEmpresa.deps.json
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ProjetoEmpresa.runtimeconfig.json
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ProjetoEmpresa.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ProjetoEmpresa.pdb
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.FrmDepartamento.resources
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.FrmFuncionario.resources
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.FrmMENU.resources
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.csproj.CopyComplete
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\refint\ProjetoEmpresa.dll
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.pdb
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ProjetoEmpresa.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\FASE_LADO_1\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\net8.0-windows\ref\ProjetoEmpresa.dll
